@@ -1,8 +1,8 @@
 [
     {
-        "serverurl":"www.yinrg.net"
+        "serverurl":"http://www.yinrg.net/"
     },
     {
-        "serverurl":"wwww.yinrg.net"
+        "serverurl":"http://wwww.yinrg.net/"
     }
 ]
