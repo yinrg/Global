@@ -2,6 +2,7 @@
     {
         "serverurl":"http://www.yinrg.net/"
     },
+    
     {
         "serverurl":"http://wwww.yinrg.net/"
     }
