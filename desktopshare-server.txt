@@ -4,6 +4,6 @@
     },
     
     {
-        "serverurl":"http://wwww.yinrg.net/"
+        "serverurl":"http://108.61.85.11/"
     }
 ]
